@@ -1,3 +1,11 @@
+0.5.3 - 2016.01.18
+------------------
+Deprecated the old K+ tanks as these are redundant with USI_Core
+
+0.5.2 - 2015.11.09
+------------------
+KSP 1.0.5 compatibility
+
 0.5.1 - 3015.10.16
 ------------------
 Moved round tanks into Kontainers (you can find these in Karbonite now)
