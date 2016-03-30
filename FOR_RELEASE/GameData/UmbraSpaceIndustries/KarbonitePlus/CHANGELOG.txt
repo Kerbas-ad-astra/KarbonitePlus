@@ -1,3 +1,7 @@
+0.6.0 - 2016.03.29
+-----------
+Compatibility with KSP 1.1
+
 0.5.3 - 2016.01.18
 ------------------
 Deprecated the old K+ tanks as these are redundant with USI_Core
