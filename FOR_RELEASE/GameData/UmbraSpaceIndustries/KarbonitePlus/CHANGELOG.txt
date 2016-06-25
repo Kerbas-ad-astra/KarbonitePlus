@@ -1,3 +1,14 @@
+0.6.4 - (KSP 1.1.3)
+------------------
+Dependency Updates
+Karborundum is now tweakable, and 4000 funds per unit (versus 400).
+The Kerbol Karburundum harvesting zone is back... now go find it :)
+Fixed CTT placement of fusion engines
+
+0.6.3 - 2016.05.14
+------------------
+Dependency Updates
+
 0.6.2.1 - 2016.04.30
 --------------------
 KSP 1.1.2 compatibility
